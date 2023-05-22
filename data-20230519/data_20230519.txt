@@ -1,0 +1,265 @@
+canD 는 no-code SaaS 모듈 생태계입니다. 개발자 없이 Web2 & Web3 Application 을 구축할 수 있는 다양한 no-code 모듈들이 생태계에 참여하는 개발사들(DevArmada)에 의하여 제공됩니다.
+CanD is a no-code ecosystem specializing in community gamification and monetization. At canD, businesses and communities can find a complete suite of no-code modules provided by canD ecosystem developers (DevArmada), which you can use to build your Web2/Web3 applications without developers, as easily as doing home decoration by assembling IKEA modules.
+canD의 can은 Community Alliance Network을 의미하며, 경우에 따라서는 CryptoBadge Alliance Network 을 의미하기도 합니다.
+canD's 'can' stands for Community Alliance Network, and in some cases, it also refers to the CryptoBadge Alliance Network
+D는 Decentralized 혹은 Distributed 의 의미를 내포합니다.
+The 'D' in canD implies Decentralized or Distributed.
+CAN은 CryptoBadge Alliance Network 혹은 Community Alliance Network의 약자로, canD 생태계에서 제공되는 SaaS 모듈들을 총칭하는 개념입니다.
+CAN stands for CryptoBadge Alliance Network or Community Alliance Network, which is a concept that encompasses the SaaS modules provided in the canD ecosystem.
+"Web2 또는 Web3 서비스를 구축하고자 하는 기업, 창업자, 또는 DAO 들은 마치 IKEA 모듈을 조합하여 인테리어를 하듯, canD 모듈을 조합하여 강력한 서비스를 만들 수 있습니다.
+
+canD 을 이용하는 방법에는 3가지가 있습니다.
+
+1. All-inclusive No-code SaaS (Software-as-a-Service)
+
+개발자가 전혀 없이도, canD 가 제공하는 All-inclusive SaaS 를 이용하여 원하는 기능들을 모두 포함한 서비스를 런칭할 수 있습니다. 웹 서비스는 물론 네이티브 앱 (ios/android) 도 함께 런칭이 가능합니다. 
+
+이러한 방식으로, 소프트웨어 개발 부서 운영이 부담스러운 기업들이 개발팀 없이 혹은 최소한의 개발자 만으로 경쟁력 있는 Web2/Web3 사업 및 온-오프라인 통합 플랫폼을 런칭할 수 있습니다.
+
+2. Headless Service
+
+canD 모듈들이 제공하는 강력한 기능들을 활용하되, 프론트엔드(UI/UX)는 완전히 독립적인 방식으로 구축하고자 할 경우에, 여러분이 프론트엔드를 직접 개발할 수 있는 방법입니다. 만약, 여러분에게 개발자가 없다면 canD 의 개발협력사들, 즉 DevArmada 들을 통하여 프론트엔드를 개발할 수도 있습니다. 
+
+3. canD API Service
+
+여러분이 이미 운영중인 서비스가 있을 경우, 기존 서비스를 그대로 유지하면서, canD 모듈들의 핵심 기능들을 API 함수를 호출하여 사용할 수 있습니다. canD 의 일부 API 들은 Discord Plugin 의 형태로도 제공되어, Discord 커뮤니티에서도 플러그인을 통하여 쉽게 canD 의 기능들을 이용할 수 있습니다. 
+"
+"Companies, entrepreneurs, or DAOs looking to build Web2 or Web3 services can create powerful services by combining canD modules, similar to assembling IKEA modules for interior design.
+
+There are three ways to leverage canD:
+
+1. All-inclusive No-code SaaS (Software-as-a-Service)
+Without the need for developers, you can launch a service that includes all desired features using canD's all-inclusive SaaS. This includes web services as well as native apps (iOS/Android). With this approach, companies that find it challenging to maintain software development departments can launch competitive Web2/Web3 businesses and integrated online-offline platforms with minimal or no developers.
+
+2. Headless Service
+If you want to leverage the powerful features provided by canD modules but wish to independently build the frontend (UI/UX), you can develop the frontend yourself. If you don't have developers available, you can engage canD's development partners, known as DevArmada, to develop the frontend for you.
+
+3. canD API Service
+If you already have an existing service in operation, you can maintain your existing service while using the core features of canD modules by calling API functions. Some canD APIs are also provided in the form of Discord plugins, making it easy to utilize canD's features within Discord communities."
+2018년 CryptoBadge 프로젝트가 최초로 시작되었고, 이후 CryptoBadge 의 활용을 위한 CryptoBadge Alliance Network이 형성되었으며, network 이 확장되어감에따라 보다 광범위한 의미로 Community Alliance Network 으로 불리우게 되었고, 2022년 canD.xyz 서비스가 런칭되었습니다.
+The CryptoBadge project was first initiated in 2018, and subsequently, the CryptoBadge Alliance Network was formed to facilitate the utilization of CryptoBadge. As the network expanded, it came to be known as the Community Alliance Network, encompassing a broader scope. In 2022, the canD.xyz service was launched.
+canD SaaS 모듈들을 코딩 없이 비즈니스에 바로 사용할 수 있도록 유스 케이스 목적별로 미리 구성하고 조립해 놓은 키트입니다. 비유하자면 미리 어느정도 조립해놓은 IKEA 가구나 Lego 블록이라고 볼 수 있습니다.
+canD is a kit pre-configured and assembled for specific use cases, allowing businesses to use canD SaaS modules without coding. It can be likened to pre-assembled IKEA furniture or Lego blocks.
+현재 존재하는 모듈들 이외에도 Rocket 들의 비즈니스를 돕기 위한 다양한 모듈들이 연구 개발되어 추가될 것입니다.
+In addition to the existing modules, various modules are being researched and developed to support the businesses of Rockets, and they will be added.
+devArmada 는 canD 모듈, customization 을 위한 플러그인, 그리고 Headless 방식의 서비스에서의 프론트엔드를 개발하는 개발사들을 총칭합니다
+DevArmada refers to the developers that work on canD modules, custom plugins, and front-end development for canD's headless service.
+canD Module 은 canD 생태계의 개발협력사들 (DevArmada) 이 만듭니다. 따라서 모듈별로 개발사가 다를 수 있습니다.
+canD modules are developed by the development collaborators (DevArmada) within the canD ecosystem. Therefore, different modules may be developed by different companies.
+"개발사는 다음과 같은 유형으로 DevArmada 로서 생태계에 참여할 수 있습니다.
+
+
+1. 커스텀 플러그인 및 Headless 프론트엔드 개발
+
+canD 의 고객사(Rockets)의 고유한 커스터마이징 니즈에 맞추어 커스텀 플러그인을 개발하고, DevArmada는 이에 대한 개발 비용을 지급 받습니다. canD 의 고객사가 canD 의 백엔드만을 이용하고 프론트엔드를 직접 개발하는 Headless 방식을 원할 경우, DevArmada 는 프론트엔드 구축에 참여할 수 있습니다.
+
+
+2. canD 공통 Module 의 독립적 개발 및 제공
+
+DevArmada 가 이미 보유하고 있는 소프트웨어 모듈을 canD 의 공통 Module 화 하여 canD 생태계에 제공할 수 있습니다. 이 경우, 해당 Module 의 지적재산권은 DevArmada 에 귀속되며, 개발 비용을 지급 받는 대신, 자신이 제공한 Module 에 대한 SaaS 사용료를 canD 의 고객사(Rockets)로부터 받게 됩니다. DevArmada 가 당장의 매출 보다는 많은 사용자의 확보를 목표로 할 경우, 유료 모듈 이외에도 무료 모듈을 공급할 수도 있습니다. 무료를 기본으로 하지만, 사용량의 증가에 따라 유료 과금이 이루어지는 모듈을 공급할 수도 있습니다."
+"Developers can participate in the ecosystem as DevArmada in the following types:
+
+1. Custom plugin and headless frontend development
+DevArmada develops custom plugins tailored to the unique customization needs of canD's clients, and receives payment for the development costs. If canD's clients prefer to use only canD's backend and develop the frontend themselves in a headless manner, DevArmada can participate in frontend development.
+
+2. Independent development and provision of canD common modules
+DevArmada can provide software modules that it already possesses as canD common modules. In this case, the intellectual property rights of the corresponding module belong to DevArmada, and instead of receiving development costs, DevArmada charges SaaS usage fees for the module provided to canD's clients. If DevArmada aims to secure many users rather than immediate revenue, it can also supply free modules in addition to paid modules. For instance, a DevArmada can provide a free module that later charges fees as usage increases.
+"
+canD Rocket 은 canD 모듈 혹은 Bizkit를 활용하여 비즈니스를 운영하는 서비스들을 일컫는 용어입니다.
+The term 'canD Rocket' refers to services that operate their businesses using canD modules or Bizkits.
+필요한 새 기능이 canD 를 활용하는 다양한 서비스들에서 공통적으로 필요하는 경우에는 canD 의 모듈로서 해당기능이 추가될 수 있습니다. 다만, 공통적 니즈가 아닌 특정 서비스만의 고유의 니즈일 경우에는 플러그인으로 개발하여 canD 와 연동할 수 있습니다. 여러분에게 플러그인을 개발할 개발자가 없을 경우에는 canD 의 개발협력사들 (DevArmada) 에게 의뢰할 수 있습니다. 
+If the required new feature is commonly needed among various services utilizing canD, it can be added as a module within canD. However, if it is a unique requirement specific to a particular service, it can be developed as a plugin and integrated with canD. If you don't have developers to create the plugin, you can request it from canD's development partners (DevArmada).
+"canD 의 모듈들을 어떻게 조합하여 서비스를 구축하는지, 그리고 각 모듈들을 어떻게 configure 하는지에 따라서 다양한 기능과 디자인을 가진 서비스가 탄생할 수 있습니다. 
+
+하지만, 우리 서비스만의 고유하고 독특한 니즈가 canD 공통 모듈의 조합 및 configuration 으로 해결되지 않을 경우, 각 서비스는 직접 커스텀 플러그인을 만들어 canD SaaS 와 연동 시킬 수 있습니다."
+If your service requires unique functionality that cannot be solved by a combination of common modules on canD, you can create your own 'custom plug-in' and integrate it with canD modules. 
+당신이 만든 것을 canD 모듈과 통합할 수 있습니다. canD를 최대한 활용하여 중복 투자를 줄이고 서비스에 차별화된 가치를 창출하는 데 모든 에너지를 집중할 수 있습니다.
+You can integrate what you made with canD modules. Take full advantage of canD to help reduce redundant investment and focus all your energy on creating differentiated value for your service.
+canD devArmada는 canD Rocket들의 프로페셔널한 테크 파트너이자, 컨설턴트입니다. 책임감 있게 안정적인 서비스를 제공하는 개발사라면 누구나 devArmada가 될 수 있습니다. 
+canD devArmada is a professional tech partner and consultant for canD Rockets. Any developers that responsibly provides stable services can become a part of devArmada.
+"DevArmada 가 이미 보유하고 있는 소프트웨어 모듈을 canD 의 Module 화 하여 canD 생태계에 제공할 경우, 자신이 제공한 Module 에 대한 SaaS 사용료를 canD 의 고객사(Rockets)로부터 받게 됩니다. 
+
+DevArmada 가 당장의 매출 보다는 많은 사용자의 확보를 목표로 할 경우, 유료 모듈 이외에도 무료 모듈을 공급할 수도 있습니다. 무료를 기본으로 하지만, 사용량의 증가에 따라 유료 과금이 이루어지는 모듈을 공급할 수도 있습니다.
+
+canD 고객들(Rockets)은 canD Module의 기능들을 조합하여 비즈니스에 활용합니다. 당신이 만든 고유한 기능을 당신의 서비스 이외 다른 서비스들에서도 사용되게 하고 추가적인 수익을 창출할 수 있습니다. 이는 devArmada 간에도 win-win의 환경을 제공합니다. 당신의 서비스가 확보한 유저가, 자동으로 A, B, C 서비스의 유저가 될 수도 있고, 그 반대가 될 수도 있습니다. 예를 들어, 협업을 위한 독창적인 스크린 쉐어 기능을 만들었다고 가정할 때, 이를 많은 다른 서비스들 내에서 기능할 수 있도록 개발하여, 영업이나 마케팅 없이도 유저를 확보할 수 있는 통로를 확보하게 됩니다. 서로 다른 서비스간의 포인트 연동 및 교환을 통한 마케팅 파트너십도 쉽게 가능해집니다. 물론 각 서비스의 운영자가 원하는 경우에 한해서이지만요."
+"When DevArmada transforms its existing software modules into canD modules and provides them to the canD ecosystem, they receive SaaS usage fees from canD's customers (Rockets).
+
+If DevArmada aims to secure a large user base rather than immediate revenue, they can also supply free modules in addition to paid modules. They can offer modules that are initially free but transition to a paid billing model based on usage volume.
+
+canD customers (Rockets) leverage the functionalities of canD modules for their businesses. By allowing your unique features to be used in other services apart from your own, you can generate additional revenue. This creates a win-win environment among devArmadas. The users acquired by your service may also become users of Service A, B, or C automatically, and vice versa. For example, let's say you've developed a distinctive screen sharing feature for collaboration. By developing it to function within various other services, you can secure users without the need for sales or marketing efforts. Marketing partnerships through point integration and exchange between different services also become easily achievable. Of course, this is subject to the operators of each service agreeing to it."
+canD 는 DevArmada 가 보유하고 있는 SaaS 가 쉽게 canD SaaS 생태계와 연동되도록 CANpass 라는 계정 연동 시스템을 제공합니다. CANpass 를 연동하기만 하면 보유한 SaaS 를 canD 모듈화 하는 것이 가능합니다.
+canD provides CANpass, an account integration system that enables seamless integration between the canD SaaS ecosystem and the existing SaaS solutions held by DevArmada. By integrating with CANpass, it becomes possible to modularize the existing SaaS and make it compatible with canD.
+
+
+"canD 을 이용하는 방법에는 3가지가 있습니다.
+
+1. All-inclusive No-code SaaS (Software-as-a-Service)
+2. Headless Service
+3. canD API Service
+
+첫째, all-inclusive no-code SaaS 방식의 경우. 이용하는 모듈의 종류 및 서비스의 복잡도에 따라서 비용이 달라집니다. 적게는 월 USD 1,000 부터, 많게는 월 USD 10,000 이상까지 다양한 스펙트럼이 존재합니다. 또한 다양한 할인 프로그램이 있는데, 이들 프로그램에 지원하여 선발되면, 할인 혜택이 가능하기도 합니다.
+
+둘째, Headless Service 는 프론트엔드를 별도로 개발하는 경우이므로, 프론트엔드 개발을 담당하는 주체가 누구이냐에 따라서 비용이 달라질 수 있습니다. 인건비가 저렴한 국가에 위치한 DevArmada 를 이용할 경우, 개발 비용을 dramatic 하게 줄일수 있는 가능성도 있습니다.
+
+셋째, canD API 서비스는 기본적으로는 무료에 가까운 저렴한 가격으로 제공되는 것이 일반적이며, API 호출 횟수, 즉 사용량이 증가함에 따라서 추가적인 과금을 하는 것이 일반적입니다.
+
+위 3가지 방법중 어떠한 방법으로 canD 를 이용하던지와 무관하게, 자체적인 개발팀을 구축하거나 외주 아웃소싱을 맡기는 것에 비해서 1/10 이하의 가격으로 원하는 바를 이룰 수 있습니다."
+"There are three ways to use canD:
+
+1. All-inclusive No-code SaaS (Software-as-a-Service)
+2. Headless Service
+3. canD API Service
+
+For the first option, the cost depends on the types of modules used and the complexity of the service. Prices can range from as low as $1,000 per month to over $10,000 per month. There are also various discount programs available, and if selected, you can benefit from discounted pricing.
+
+Regarding the second option, the Headless Service, the cost may vary depending on who is responsible for front-end development. If you utilize a DevArmada located in a country with lower labor costs, there is a possibility to significantly reduce development expenses.
+
+As for the canD API Service, it is generally offered at a low cost or even for free, with additional charges based on API usage, specifically the number of API calls.
+
+Regardless of which method you choose among the three, you can achieve your goals at a price that is less than 1/10th of the cost of building an in-house development team or outsourcing the work."
+The time required to build a service using canD varies depending on your requirments. It could take from a few hours to a few weeks.
+We strongly advise you to do so. You may drastically minimize the time, expense, and effort required for your proof of concept. 
+"많은 스타트업들이 서로 서로 별다를 것 없는 컨텐츠 피드, 알림, 게시판, 댓글, 스팸 관리, 비디오, 메시징, 프로필과 같은 기능을 개발하는데 개발팀의 귀중한 시간과 에너지를 쏟아 왔습니다. 이러한 기능들은 대부분의 서비스들에게 자신만의 독특한 기능이 아님에도 불구하고, 그렇다고 해서 없어서도 안될 기능이기에 어쩔수 없이 많은 시간과 비용을 들여 개발해왔습니다.  
+
+이러한 공통 기능들은 이미 잘 만들어져 있는 canD 공통 모듈을 조합하여 구축하고, 자신의 서비스만의 유니크한 가치를 창출하는 것 만을 직접 개발하는 것이 중복 투자를 없애고, 본질적 경쟁력에 모든 에너지를 집중할 수 있는 길입니다. 
+"
+"Many startups have been pouring their valuable time and energy into developing common features such as content feeds, notifications, bulletin boards, comments, spam management, videos, messaging, and profiles. Despite these functionalities not being unique to most services, they are essential and cannot be neglected, resulting in significant time and cost investments for development.
+
+By leveraging well-built canD common modules that already encompass these common features, startups can eliminate duplicate investments and focus all their energy on creating unique value for their own services. This approach allows them to concentrate on their core competitiveness."
+"canD 로 서비스를 구축하는 것은 외주 개발과 근본적으로 다른 방법론입니다.
+
+외주 개발이 설계도를 시공사에 맡겨 건물을 짓는 것이라면, canD 로 서비스를 구축하는 것은 미리 만들어진 잘 디자인된 거실, 방, 부엌 등을 조립하여 집을 짓는 것에 비유할 수 있습니다. 
+
+훨씬 빠르게 구축할 수 있고, 비용도 훨씬 절감된다는 장점 이외에도 유지/보수/업그레이드에 있어서도 근본적인 강점이 있습니다. canD 공통 모듈들은 canD 의 여러 고객사들에서 동시에 이용되고 있으므로, 항상 실시간으로 유지/보수 및 최신 업그레이드가 적용됩니다. 오래된 자동차나 전자제품이 부품이 단종되어서 더이상 수리가 불가능한 것 처럼, 외주 개발은 유지/보수 비용 및 기술 낙후화의 문제를 항상 동반합니다."
+"Building a service using canD is fundamentally different from outsourced development.
+
+If outsourced development is like handing over the blueprints to a construction company to build a house, building a service using canD can be compared to assembling pre-made, well-designed living rooms, bedrooms, kitchens, and so on to construct a house.
+
+In addition to the advantages of faster development and significant cost savings, there are fundamental strengths in terms of maintenance and upgrades. canD's common modules are utilized by multiple clients simultaneously, ensuring real-time maintenance, support, and the application of the latest upgrades. Just like how old cars or electronic devices become unrepairable when their parts are discontinued, outsourced development often faces challenges related to maintenance costs and technological obsolescence."
+"외주 개발은 B2C 및 D2C (Direct-to-Consumer) 서비스를 구축함에 있어서 대체로 적합하지 않습니다. canD 의 파운딩 멤버들은 소프트웨어 개발자, 컨설턴트, 스타트업 투자자로서, 오랫동안 수많은 회사들이 B2C 서비스를 구축하는 과정에서 같은 유형의 시행착오들을 겪는 것을 보아왔습니다. B2C 및 D2C 서비스는 MVP (Minimum Viable Product) 를 빠르게 런칭하고, 애자일(agile)한 반복 수정을 통하여 product-market fit 을 끊임 없이 찾아가야만 성공할 수 있습니다. 서비스를 오픈하고 나면, 수많은 기능들이 추가, 수정, 또는 근본적으로 변화되어야 한다는 것을 발견하게 되는데, 이는 당초 외주사와 합의된 작업 범위를 벗어나기에, 엄청난 추가 비용 견적에 직면합니다. 이는 외주 개발에 의존한 많은 스타트업들이 씨드 머니를 모두 다 소진해버리곤 하는 이유이기도 합니다. 
+
+canD 로 서비스를 구축할 경우, All-inclusive SaaS 방식으로 하건, canD 의 백엔드만을 이용하는 Headless 방식으로 하건, 서비스 운영에 있어서 다양한 자동화된 서비스를 받을 수 있습니다. 외주 개발로 구축된 서비스가 급작스러운 트래픽 증가와 함께 장애를 겪거나 동작 불능상태에 빠지는 경우가 종종 있습니다. 하지만 수많은 고객들이 공통적으로 공유하며 사용하고 있는 canD SaaS & 백엔드 서비스는 유저가 급격히 늘어나는 경우에도, 실시간 scale up 할 수 있도록 설계되어 있습니다. 또한 단순히 조합을 위한 모듈들만을 제공하는 것이 아니라, 부가적으로 필요한 서비스들이 같이 제공됩니다. 예를 들어, 비유하자면 집이 더욱 집다울 수 있도록 하는 배관, 설비, 환기, 때로는 방역 등과 같은 서비스도 제공합니다. 서비스의 유지 관리, 버그 수정, 고객사들의 앱 업데이트는 물론이고 빠르게 진화하는 Web2/Web3 서비스 트렌드 속에서 많은 고객들이 필요로 하는 새로운 기능 및 모듈들을 지속적으로 개발하고, 각각의 조합을 유연하게 업데이트 하는 것을 포함합니다."
+"Outsourced development is generally not suitable for building B2C and D2C (Direct-to-Consumer) services. As founding members of canD, including software developers, consultants, and startup investors, we have witnessed numerous companies going through similar trial and error processes while building B2C services. B2C and D2C services require quickly launching a Minimum Viable Product (MVP) and constantly seeking product-market fit through agile iterations. Once the service is launched, it becomes apparent that numerous features need to be added, modified, or fundamentally changed. This often results in significant additional cost estimates, as it goes beyond the initially agreed-upon scope of work with the outsourcing company. This is one of the reasons why many startups which rely on outsourcing end up depleting all their seed funding.
+
+By building the service using canD, whether through the all-inclusive SaaS approach or utilizing canD's backend in a headless manner, you can benefit from various automated services for service operations. Services developed through outsourced development often experience outages or become non-functional when faced with sudden increases in traffic. However, canD's shared SaaS and backend services, used by numerous customers, are designed to scale up in real-time even with rapid user growth. Additionally, canD doesn't merely provide modular components for combination; it also offers supplementary services to enhance the overall service. It's like providing plumbing, facilities, ventilation, and sometimes even sanitation to make the house more livable. This includes service maintenance, bug fixes, app updates for customers, as well as the continuous development of new features and modules that many customers require within the rapidly evolving Web2/Web3 service trends. canD enables flexible updates and combinations of these features to meet the evolving needs of customers."
+canD 의 모듈은 많은 고객들 (Rockets)이 함께 사용합니다. 따라서, 최신의 트렌드와 기술들이 빠르게 적용되고 업데이트 됩니다. 또한, 최신의 기술들이 새로운 모듈로 출시되기도 합니다.
+The modules of canD are used by many customers (Rockets) together. As a result, the latest trends and technologies are quickly applied and updated. Additionally, the latest technologies are also released as new modules.
+"canD 의 all-inclusive node SaaS 를 이용하여 서비스를 구축하는 경우, 데스크탑 웹은 물론 모바일 웹도 함께 지원됩니다. 또한 구축한 서비스를 아이폰 및 안드로이드 네이티브 모바일 앱으로도 출시할 수 있습니다.
+
+canD 를 Headless 방식으로 사용하는 경우에는 어짜피 프론트엔드는 별도로 구축하므로, 프론트엔드를 구축하는 자가 모바일 지원을 책임지고 작업해야 합니다."
+"If you use canD's all-inclusive node SaaS to build your service, it will support not only desktop web but also mobile web. Additionally, you can release the built service as native mobile apps for both iPhone and Android.
+
+In the case of using canD in the Headless approach, since the frontend is built separately, the responsibility of implementing mobile support lies with the frontend developers."
+canD는 개발팀 없이도 유니콘 회사로 키우는 것에 도전할 수 있도록 다양한 최신 기술을 제공합니다. 개발팀 없이 canD과 함께 고속성장하는 Rocket(고객사) 사례는 드물지 않습니다. canD 기반으로 서비스를 재 구축한 후, 개발 비용은 현저히 삭감하고, 매출과 기업가치는 10배 이상 증가하고, 후속투자를 유치한 고객사들도 있습니다. 하지만, 비즈니스 성공 요소가 기술 만은 아니기 때문에, canD와 함께 하기만 하면 반드시 성공한다고 말씀 드릴 수는 없습니다.
+canD provides a wide range of cutting-edge technologies to empower the challenge of growing a unicorn company without a development team. It is not uncommon to find examples of Rockets (canD's customers) achieving rapid growth with canD, even without a development team. After rebuilding their services on the canD platform, they have significantly reduced development costs while experiencing a revenue and company valuation increase of over 10 times, and some have attracted subsequent investments. However, since business success is not solely determined by technology, we cannot guarantee that partnering with canD alone will lead to guaranteed success.
+canD 에서 제공되는 많은 모듈과 키트들은 특별히, 커뮤니티, 게이미피케이션, 마켓플레이스, Web3, AI 와 같은 최신 기술 응용에 강점이 있습니다. 최신 기술을 재빨리 비즈니스에 도입하여 지체없이 시장 혁신을 통하여 보다 큰 규모의 비즈니스 기회를 획득할 수 있도록 합니다.
+Many modules and kits offered by canD excel particularly in the application of cutting-edge technologies such as community building, gamification, marketplace development, Web3, and AI. They enable rapid adoption of the latest technologies in business, facilitating market innovation and unlocking larger-scale business opportunities without delay.
+canD 와 계약 종료 또는 해지시, canD 의 고객은 사용자 정보 및 사용자가 서비스에 등록한 콘텐츠 데이터 추출을 요청할 수 있습니다.
+If you no longer want to operate the service on canD, we can extract and provide data on user information and content registered by users.
+canD 로 구축한 서비스에 올라온 콘텐츠는 네이버, 구글 등 검색 서비스의 검색 결과에 사이트, 콘텐츠 노출이 가능합니다. 검색 엔진별 등록 가이드를 따라 검색 등록을 진행하면 됩니다.
+The content posted on a service built with canD can be indexed and displayed on search engine results, including Naver and Google. You can follow the registration guidelines provided by each search engine to have your site and content indexed.
+기존에 운영중인 자사몰의 데이터를 canD 기반으로 새로 구축한 서비스로 옮길 수 있습니다. 다만, 이러한 데이터 마이그레이션 작업에 약간의 비용이 소요될 수도 있습니다.
+It is possible to migrate the data from your existing in-house online mall to a new service built with canD. However, there might be some cost involved in performing such data migration tasks.
+canD provides sample services that demonstrate several different scenarios. CanD modules can be combined in an infinite number of ways. Please contact the canD Team if you need additional testing.
+canD native token is a topic that is being discussed in the community. While it is not determined whether or not to issue tokens as of May 2023, many see it positive.
+As of May 2023, canD supports Ethereum and Polygon. Other EVM-compatible blockchain networks can also be easily turned on upon reqeust of canD's clients.
+Using canD gamification modules, you can create a dynamic and engaging community that users will love. You can motivate and reward your users to participate in various activities that have a positive impact on the prosperity of your community in a gamified way. 
+canD gamification modules are interoperable. d.Quest allows you to create tasks and quests. Participants can be rewarded with CryptoBadge, tokens, NFTs, or XP.
+Using canD gamification modules, rewards for users' community activities or purchases of items can be provided in a variety of ways (user levels, badges, tokens, NFT, etc.). You can issue a 'community coin/token' and can use it to design various loyalty programs and community currency. Users can participate in group decision voting based on the tokens they hold too.
+Communities become sustainable when they have a long-lasting means of generating tangible revenue or valued assets. CanD supports monetization through commerce, education, subscription, donation, and crowd-funding and more.
+"Positions" in canD is to group your users in order to provide differentiated benefits or privileges. "Positions" can be used to define roles, titles, grades, positions, levels, tribes, or kins as in MMORPG, and whatever else your imagination can think of. 
+Using "positions" in canD, you can divide user groups in a way you want to differentiate their accesses, privileges, or duties, so that you can allow distinct activities and experiences per users in an efficient way. You can also change the term to something more suitable, such as roles, titles, grades, levels, tribes, kins or whatever your community prefers. 
+canD BizKits only display a small portion of what can be developed with CAN. Here are two ideas. You can discuss with canD AI about it and uncover canD's aspects that will help your business. Second, you can provide us a list of your needs and requirements. canD Team will review and respond, letting you know which features are instantly feasible, which are customizable, and which must be developed as a plug-in.
+In order to see the examples of pre-configured service scenarios, you can refer to canD BizKits.
+판매자들이 직접 상품을 등록하고 판매하고 정산할 수 있는 오픈마켓(마켓플레이스) 플랫폼을 canD 로 만들 수 있습니다.
+You can create an open marketplace platform using canD, where sellers can directly list, sell, and manage their products, including settlement.
+canD는 Platform-as-a-service 를 제공합니다. Reddit, Facebook 그룹, 또는 네이버 카페와 같이 사용자들에게 하위 커뮤니티나 쇼핑몰을 생성하고 관리할 수 있는 권한을 전체 또는 일부에게 부여할 수 있습니다. 커뮤니티 별로 다르게 기능을 설정할 수도 있습니다. 또한 사용자들에게 고유한 메뉴, 디자인, 커뮤니티 규칙을 직접 디자인할 수 있도록 허용할 수도 있습니다.
+canD provides Platform-as-a-Service. You can allow all or part of your users to create and manage communities or shopping malls. You can configure the features of them. You can also allow them to design their own unique menus, designs, and community rules.
+CanD 를 활용하면 이더리움, 폴리곤 등 EVM 블록체인 기반의 NFT 발행부터 판매, 그리고 NFT 구매자들이 모여있는 커뮤니티 구축까지 모두 가능합니다. 보유한 NFT에 따라 멤버 등급 및 권한이 차별화되는 DAO 서비스로도 진화시킬 수 있습니다.
+By utilizing canD, it is possible to handle the entire process of issuing and selling NFTs based on Ethereum, Polygon, and other EVM blockchain networks, as well as building a community where NFT buyers gather. Additionally, it can be evolved into a DAO service where membership levels and privileges vary depending on the owned NFTs.
+You can build an ecommerce service with canD.
+You can build a subscription commerce with canD.
+You can build a NFT sales platform with canD.
+You can build a crowdfunding platform with canD.
+You can build a group purchase service with canD.
+You can build an online class service with canD
+
+canD 를 활용하여 만든 대부분의 서비스들은 여러개의 canD 모듈들을 조합하여 구축되었고, 사용자들은 각 서비스를 분리된 서비스들의 조합이 아닌 온전한 하나의 서비스로 경험하고 있습니다. 이를 가능하게 하는 것이 CANpass 이며, CANpass 는 서로 다른 SaaS 모듈 간의 계정 연결, 인증, 연동과 관련된 다양한 문제들을 담당합니다. CANpass 는 canD devArmada들이 효율적으로 협업 가능하게 하는 프로토콜이기도 합니다.
+Most of the services created using canD are built by combining multiple canD modules, and users experience them as a unified service rather than a collection of separate services. CANpass enables this by handling various issues related to account linking, authentication, and integration between different SaaS modules. CANpass also serves as a protocol that enables efficient collaboration among canD devArmadas.
+canPass 는 user identifier 연동을 중재합니다. 각 SaaS 모듈들 혹은 canD 모듈들은 다른 모듈들과 각각 개별적으로 identifier 연동 작업을 할 필요 없이, canPass 와 한번만 연결하면 됩니다.
+CANpass mediates the user identifier integration. Each SaaS module or canD module only needs to connect with CANpass once, without the need to individually handle identifier integration with other modules.
+CANpass 는 다양한 구글, 페이스북, 애플, 카카오 등 다양한 Single Signon 시스템을 지원하며, Metamask 지갑 주소 연동 역시 지원합니다.
+CANpass supports various Single Sign-On systems such as Google, Facebook, Apple, Kakao, and also facilitates integration with Metamask wallet addresses
+CANpass 보유한 사용자들은 마치 소셜 로그인(구글/페이스북 싱글사인온 등)을 이용하듯이, 원 클릭으로 canD 로 만든 서비스들에 가입할 수 있습니다.
+
+canPass 사용은 무료입니다.
+canPass usage is free of charge.
+canPass 사용자는 자신의 Identity 를 다양한 서비스에 가지고 다닐 수 있게 됩니다. 한 서비스에서 획득한 아이템, 배지, 토큰, 레퓨테이션을 다른 서비스에서도 사용이 가능한 ‘열린 메타버스’를 경험할 수 있습니다.
+canPass users can carry their identity across various services, enabling them to experience an 'open metaverse' where items, badges, tokens, and reputations obtained from one service can also be used in other services.
+canPass 보유자들은 canPass 를 지원하는 모든 서비스에서 canPass 를 사용할 수 있습니다.
+canPass users can use canPass in all services that support canPass.
+canPass는 사용자가 각각의 서비스에서 활동한 데이터를 보유하지 않습니다. 사용자의 활동 데이터는 canPass가 아닌 각각의 서비스가 보유합니다. canPass는 서비스간의 부드러운 연결을 위해 'A 서비스에서의 a 사용자가 B 서비스에서의 b 사용자와 동일하다'라는 정보를 바탕으로 한 account connector의 역할을 합니다.
+canPass does not retain the data of user activities in each individual service. The user activity data is held by each respective service, not canPass. canPass serves as an account connector based on the information of 'User a in Service A is identical to User b in Service B' to facilitate smooth connections between services.
+CANpass는 개념적으로도 또 그 철학적으로도 기존 대기업들의 싱글 사인온 시스템과는 다릅니다. 기존 대기업들은 사용자 데이터를 광범위하게 수집하고 소유하며, 자신들의 로그인 시스템을 채택한 서비스들에게 사용자 데이터를 제공합니다. canD 생태계에서 CANpass는 사용자 데이터를 수집하고 소유하는 중앙집권적 주체가 아니며, 사용자 데이터는 개별 서비스들이 소유하고 관리합니다. CANpass를 통하여 사용자는 서비스 A의 계정과 서비스 B의 계정을 연결할 수 있고, 서비스 A 와 B 를 마치 한 서비스처럼 넘나들고자 할 때 CANpass를 통해 이 두 계정이 연결된 계정임을 A, B 서비스에 확인시킵니다. CANpass가 각 서비스에서 사용자가 어떠한 글을 썼는지 무엇을 팔로우 하는지 등의 사용자 활동에 대해서는 알 수 없으므로, 사용자들은 편의성을 추구하는 동시에 나의 일거수 일투족에 대한 모든 데이터를 특정 기업이 소유하고 활용하는 부담감에서 자유로울 수 있습니다.
+CANpass is conceptually and philosophically different from the single sign-on systems of traditional major corporations. Traditional corporations collect and own user data extensively, providing it to services that adopt their login systems. In the canD ecosystem, CANpass is not a centralized entity that collects and owns user data; instead, individual services own and manage user data. Through CANpass, users can connect their accounts from Service A and Service B, and when they navigate between Service A and B as if they were one integrated service, CANpass confirms to both services that these two accounts are linked. Since CANpass has no knowledge of user activities such as what content users write or whom they follow, users are free from the burden of having all their personal data owned and utilized by a specific company, while pursuing convenience.
+CryptoBadge는 블록체인 배지입니다. 디지털 훈장이라고 할 수 있는 디지털 인증 시스템입니다. CryptoBadge 는 성취, 경험, 공헌 등 기억하고 싶은 것 혹은 자랑거리들을 배지의 형태로 수집할 수 있게 합니다. 클래시 로얄과 같은 게임에서 챔피온 레벨을 달성한 것, 하와이 코나에서 트라이애슬론을 완주한 것, 유니세프에 도네이션을 한것 등 무엇이건 배지가 될 수 있습니다.
+CryptoBadge is a blockchain-based certificate system indicating people’s credits and reputation. CryptoBadge lets your users collect badges for anything, be it their achievements, experiences, or contributions: achieving the Champion Level in Clash Royale, completing a triathlon in Kona, Hawaii, donating to UNICEF, etc. 
+크립토배지(CryptoBadge)의 장점은 어디서나 증명이 가능하며, 위조 혹은 도난의 위험이 없습니다. 자격증 발급 기관이 사라져도 자격증을 유효하게 지속하고 활용할 수 있습니다.
+The advantages of CryptoBadge include the ability to be verified anywhere and the absence of risks such as forgery or theft. Even if the issuing authority ceases to exist, the certification remains valid and can be utilized.
+CryptoBadge converts the merits of badge winners into tokenizable assets, connecting them to a variety of opportunities for reputation, authority, and economic reward.
+You can use CryptoBadge you earned in one community in other communities. Displaying or validating badges in a service is at the discretion of the service. 
+Anyone can issue, win or display CryptoBadges.
+You can see your acquired badges on My Badges at CryptoBadge.xyz. You can also see them in the services of displayers who use CryptoBadge in their system. Displayers can configure which badges are shown or hidden in their service.
+CryptoBadge allows badge winners to manage which badges to show and hide for each service.
+CryptoBadges are created by Badge Issuers and anyone can be a Badge Issuer.
+Any individual or organization can register as a Badge Issuer (free) to create and issue badges without blockchain knowledge. Its graphical user interface facilitates the entire process of creating, issuing, cancelling, managing, and storing badges on blockchain. A community can collectively grant a badge through consensus.  Offline certificate institutes can also utilize CryptoBadges to digitalize their certifications.
+Anyone can win badges by successfully fulfilling the requirements or quests of each badge.
+The CryptoBadge APIs enable Displayers to easily and affordably deploy a badge system for their services . Displayers are services that employ CryptoBadge in their operations. Businesses can encourage specific activities related to certain badges, or provide benefits to specific badge winners in their service.
+An individual or organization can register as Badge Displayers. Using CryptoBadge APIs, Badge Displayers can retrieve certificate information from the blockchain and display users’ CryptoBadge on their website or mobile app. In addition to the badges issued by Badge Displayers themselves, they can also select to display badges issued by other issuers upon the user’s consent.
+"CryptoBadge enables people to tokenize and assetize their merits such as achievements, experiences, and contributions, which proves their expertise, credibility, reputations, and more.
+CryptoBadge winners can safely store the bits of their experiences on the blockchain. CryptoBadge winners collect tokens of all kinds, from achieving Champion Level at Clash Royale, completing a triathlon in Kona, Hawaii, tasting a limited edition wine in a private winery, visiting 500 travel destinations, donating to UNICEF, to supporting a famous idol group, BTS."
+"In contrast to conventional methods of recognition, CryptoBadge is universal, eternal, and verifiable. It can be used across different platforms, is stored permanently on a blockchain, and provides authentic information verified by non-transferable NFT.
+
+1. Universal
+CryptoBadges that you issued can be used universally across different platforms. You can use scuba diver badges issued by a diver training organization to get discounts on diving gear. Holders of an alumni badge can be invited to useful offline conferences. Badges earned in an online community can be displayed on the user profile in a recruiting site, or used as free passes for another community.
+
+2. Eternal
+CryptoBadge is imperishable and can be stored permanently on a blockchain. Praise and recognition are not physically preserved in the offline world, and even the value of digitalized certificates or endorsements can disappear at any time with the certificate issuers' status. With CryptoBadge, you can allow your winners to store their achievements, experience, and contributions in a quantifiable manner for permanent use.
+
+3. Verifiable
+CryptoBadge provides verifiable acknowledgments. Information such as issuer, issuing conditions, and other related data is stored on the blockchain in a manipulation-proof way. It also provides APIs that allow third parties to verify the authenticity of badges. Through CryptoBadge, badge winners can provide verified information about their unique, multifaceted identity that everybody can trust."
+"CryptoBadge enables people to tokenize and assetize their merits such as achievements, experiences, and contributions, which proves their expertise, credibility, reputations, and more.
+CryptoBadge winners can safely store the bits of their experiences on the blockchain. CryptoBadge winners collect tokens of all kinds, from achieving Champion Level at Clash Royale, completing a triathlon in Kona, Hawaii, tasting a limited edition wine in a private winery, visiting 500 travel destinations, donating to UNICEF, to supporting a famous idol group, BTS."
+"CryptoBadge increases community engagement by providing social infrastructures and gamification.
+
+1. Internal reputation system
+CryptoBadge provides an internal reputation system. Recognizing people's contributions and merits is crucial for building a strong community.
+
+2. Cross-community reputation applicability/transferability
+As the self-sovereign owner of their identity data, users can choose to bring badges earned in other communities to your platform if you allow them.
+
+3. Authorization
+As a community operator, you can assign roles based on users' badge holding status. Such system can be useful when it comes to designing a sophisticated decision-making structure for your community.
+
+4. User rewards
+While winning a badge is a rewarding experience, you can provide badge winners with additional rewards such as points and tokens through Candy Machine.
+
+5. Gamification
+Along with other canD modules like d.quest, Candy Machine, Moim, and more, CryptoBadge offers the easiest method for gamifying your community or service, complete with intuitive and user-friendly admin features."
+"As the first mover of non-transferable NFT, CryptoBadge has developed a more stable, secure, and easy-to-use system.
+Since 2018, CryptoBadge has been developing a more stable and secure system for many early innovative projects as the pioneer of blockchain-based badge system.
+CryptoBadge provides easy graphic user interfaces that anyone can use intuitively without prior knowledge of blockchain, whether it is to issue badges for a single independent event (e.g. conference, promotion, etc.) or to integrate a partial or comprehensive badge system with existing communities or services (e.g. Discord)."
+"CryptoBadge is integrable and extensible, providing optimum usability for a wide range of use cases.
+As the first mover of blockchain-based badge system, CryptoBadge has covered a variety of use cases since 2018.
+
+1. Integrability
+CryptoBadge is super integrable and interoperable with diverse services such as Discord, Twitter, cryptocurrencies, d.quest, Candy Machine, canPass, Moim, and more.
+
+2. Extensibility
+CryptoBadge is extensible. It provides open APIs and allows the addition of new capabilities or functionalities.
+
+3. Diverse verification model
+CryptoBadge provides diverse verification models. Developers can implement their own verification plug-ins as well."
+"SBT 는 개발자들을 위한 토큰 프로토콜(블록체인에 저장되는 형식 정의)인 반면,
+CryptoBadge 는 일반인 모두가 쓸 수 있도록 User interface 등이 모두 갖추어진 서비스입니다."
+While Ethereum's SBT (Soulbound Token) is a token protocol specifically designed for developers (defining the format stored on the blockchain), CryptoBadge is a service that is equipped with a user interface and other features accessible to the general public.
